@@ -1,9 +1,9 @@
-streamlit
 torch
-pandas
-numpy
 diffusers
 transformers
 matplotlib
-opencv-python
 Pillow
+streamlit==1.4.0
+opencv-python==4.5.3.56
+numpy
+pandas
