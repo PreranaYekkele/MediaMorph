@@ -1,0 +1,9 @@
+streamlit
+torch
+pandas
+numpy
+diffusers
+transformers
+matplotlib
+opencv-python
+Pillow
