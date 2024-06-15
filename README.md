@@ -14,7 +14,7 @@ Fast and Efficient: Utilizes state-of-the-art AI models for quick and accurate c
 1. Clone the repository: `git clone https://github.com/your-username/MediaMorph.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
-![MegiaMorph]()
+![MediaMorph](mediamorph.png "MediaMorph")
 
 
 ## Acknowledgements
