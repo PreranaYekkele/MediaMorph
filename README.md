@@ -14,14 +14,7 @@ Fast and Efficient: Utilizes state-of-the-art AI models for quick and accurate c
 1. Clone the repository: `git clone https://github.com/your-username/MediaMorph.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
-## Usage
-
-1. Launch the MediaMorph application.
-2. Select the desired conversion mode: Text to Image or Image to Text.
-3. Follow the on-screen instructions to input the text or select an image.
-4. Customize the output settings if desired.
-5. Click the respective button to initiate the conversion process.
-6. View and save the converted media.
+![MegiaMorph]()
 
 
 ## Acknowledgements
