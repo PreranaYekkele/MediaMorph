@@ -33,4 +33,4 @@ Inspired by MandeepKharb
 
 ## Contact
 
-For any inquiries or support, please contact us at [preranayekkele@gmail.com]
+For any inquiries or support, please contact at [preranayekkele@gmail.com]
