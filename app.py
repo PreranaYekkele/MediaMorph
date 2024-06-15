@@ -1,7 +1,3 @@
-#make user dynamic web application based off text_to_image.py, image_to_text.py, and multiple_image_to_text.py 
-#use streamlit to create the web application
-#use the code snippets above to create the web application, and make it user dynamic, user can add images or write the text and will get the output 
-
 # In[6]:
 
 
