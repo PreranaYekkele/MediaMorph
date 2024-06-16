@@ -1,22 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-# get_ipython().run_line_magic('pip', 'install transformers')
-
-
-# In[1]:
-
-
-# Check if Pillow is installed
-# get_ipython().run_line_magic('pip', 'show Pillow')
-
-# If it's not installed or you're unsure, reinstall it
-# get_ipython().run_line_magic('pip', 'install Pillow --upgrade')
-
-
 # In[1]:
 
 
